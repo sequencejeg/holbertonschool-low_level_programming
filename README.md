@@ -1,1 +1,1 @@
-# holbertonschool-low_level_programming
+For use of C programming exercises meant for learning and understanding C.
