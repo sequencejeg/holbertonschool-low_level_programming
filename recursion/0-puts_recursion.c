@@ -3,7 +3,7 @@
 
 /*
  * _puts_recursion - Prints a string followed by new line
- * @s - String to be printed
+ * @s: String to be printed
  *
  * Return - void
  *

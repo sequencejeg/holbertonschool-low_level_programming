@@ -4,7 +4,7 @@
 /**
  * _print_rev_recursion - Prints string in reverse
  *
- * @s - String to be printed
+ * @s: String to be printed
  *
  * Return - void
  *
