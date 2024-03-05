@@ -1,11 +1,14 @@
 #include "main.h"
 #include <stdio.h>
 
-/*
- *
+/**
  * _pow_recursion - Returns value of x to the power of y
  *
- * @n: value of x
+ * @x: Value of Power
+ *
+ * @y: Power that x will be raised to
+ *
+ * Return: Returns the value of x raised to the power of y
  *
  */
 
