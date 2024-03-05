@@ -1,12 +1,11 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * factorial - Returns factorial of given number
  *
- * @n: number to return the factorial from
+ * @n: Number to be factored
  *
- * Return: factorial of n
+ * Return: factorial of given number
  *
  */
 
