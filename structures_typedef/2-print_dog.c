@@ -13,12 +13,10 @@ return;
 }
 if (d->name == NULL)
 {
-d->name = "(nil)"
 printf("Name: (nil)");
 }
 if (d->owner == NULL)
 {
-d->owner = "(nill)"
 printf("Owner: (nil)");
 }
 printf("Name: %s\n", d->name);
